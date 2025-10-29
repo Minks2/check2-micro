@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\GestaoEstoque",
-    "\\GestaoEstoque\\Data",
-    "\\GestaoEstoque\\Models"
+    "\\GestaoEstoque\\Controllers",
+    "\\GestaoEstoque\\DTOs",
+    "\\GestaoEstoque\\Services"
   ],
-  "SelectedNode": "\\GestaoEstoque\\Program.cs",
+  "SelectedNode": "\\GestaoEstoque\\Controllers\\RelatoriosController.cs",
   "PreviewInSolutionExplorer": false
 }
