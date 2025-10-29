@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "X2Jz40Mee80=",
+  "dgSpecHash": "fhFd3INOpP8=",
   "success": true,
   "projectFilePath": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\GestaoEstoque.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\Caio Sales\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.10\\microsoft.entityframeworkcore.analyzers.9.0.10.nupkg.sha512",
     "C:\\Users\\Caio Sales\\.nuget\\packages\\microsoft.entityframeworkcore.design\\9.0.10\\microsoft.entityframeworkcore.design.9.0.10.nupkg.sha512",
     "C:\\Users\\Caio Sales\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.10\\microsoft.entityframeworkcore.relational.9.0.10.nupkg.sha512",
+    "C:\\Users\\Caio Sales\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.10\\microsoft.entityframeworkcore.tools.9.0.10.nupkg.sha512",
     "C:\\Users\\Caio Sales\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Caio Sales\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.10\\microsoft.extensions.caching.abstractions.9.0.10.nupkg.sha512",
     "C:\\Users\\Caio Sales\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.10\\microsoft.extensions.caching.memory.9.0.10.nupkg.sha512",

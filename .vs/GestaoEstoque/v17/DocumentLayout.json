@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3237C53D-86B9-4823-9981-97CB787826F2}|GestaoEstoque\\GestaoEstoque.csproj|c:\\users\\caio sales\\downloads\\check2\\gestaoestoque\\gestaoestoque\\migrations\\20251029231604_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237C53D-86B9-4823-9981-97CB787826F2}|GestaoEstoque\\GestaoEstoque.csproj|solutionrelative:gestaoestoque\\migrations\\20251029231604_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237C53D-86B9-4823-9981-97CB787826F2}|GestaoEstoque\\GestaoEstoque.csproj|c:\\users\\caio sales\\downloads\\check2\\gestaoestoque\\gestaoestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237C53D-86B9-4823-9981-97CB787826F2}|GestaoEstoque\\GestaoEstoque.csproj|solutionrelative:gestaoestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoEstoque\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\MovimentacaoEstoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoEstoque\\Models\\MovimentacaoEstoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoEstoque\\Models\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\TipoMovimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoEstoque\\Models\\TipoMovimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\CategoriaProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoEstoque\\Models\\CategoriaProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237C53D-86B9-4823-9981-97CB787826F2}|GestaoEstoque\\GestaoEstoque.csproj|c:\\users\\caio sales\\downloads\\check2\\gestaoestoque\\gestaoestoque\\gestaoestoque.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3237C53D-86B9-4823-9981-97CB787826F2}|GestaoEstoque\\GestaoEstoque.csproj|solutionrelative:gestaoestoque\\gestaoestoque.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3237C53D-86B9-4823-9981-97CB787826F2}|GestaoEstoque\\GestaoEstoque.csproj|c:\\users\\caio sales\\downloads\\check2\\gestaoestoque\\gestaoestoque\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3237C53D-86B9-4823-9981-97CB787826F2}|GestaoEstoque\\GestaoEstoque.csproj|solutionrelative:gestaoestoque\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -27,6 +59,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20251029231604_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Migrations\\20251029231604_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GestaoEstoque\\Migrations\\20251029231604_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Migrations\\20251029231604_InitialCreate.cs",
+              "RelativeToolTip": "GestaoEstoque\\Migrations\\20251029231604_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:16:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Program.cs",
+              "RelativeDocumentMoniker": "GestaoEstoque\\Program.cs",
+              "ToolTip": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Program.cs",
+              "RelativeToolTip": "GestaoEstoque\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:12:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GestaoEstoque\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GestaoEstoque\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:12:18.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovimentacaoEstoque.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\MovimentacaoEstoque.cs",
+              "RelativeDocumentMoniker": "GestaoEstoque\\Models\\MovimentacaoEstoque.cs",
+              "ToolTip": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\MovimentacaoEstoque.cs",
+              "RelativeToolTip": "GestaoEstoque\\Models\\MovimentacaoEstoque.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:12:02.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "GestaoEstoque\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\Produto.cs",
+              "RelativeToolTip": "GestaoEstoque\\Models\\Produto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA8wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:11:51.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoMovimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\TipoMovimentacao.cs",
+              "RelativeDocumentMoniker": "GestaoEstoque\\Models\\TipoMovimentacao.cs",
+              "ToolTip": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\TipoMovimentacao.cs",
+              "RelativeToolTip": "GestaoEstoque\\Models\\TipoMovimentacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:11:41.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\CategoriaProduto.cs",
+              "RelativeDocumentMoniker": "GestaoEstoque\\Models\\CategoriaProduto.cs",
+              "ToolTip": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\Models\\CategoriaProduto.cs",
+              "RelativeToolTip": "GestaoEstoque\\Models\\CategoriaProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:11:30.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestaoEstoque",
+              "DocumentMoniker": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\GestaoEstoque.csproj",
+              "RelativeDocumentMoniker": "GestaoEstoque\\GestaoEstoque.csproj",
+              "ToolTip": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\GestaoEstoque.csproj",
+              "RelativeToolTip": "GestaoEstoque\\GestaoEstoque.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T23:10:53.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Caio Sales\\Downloads\\check2\\GestaoEstoque\\GestaoEstoque\\appsettings.json",
               "RelativeDocumentMoniker": "GestaoEstoque\\appsettings.json",
