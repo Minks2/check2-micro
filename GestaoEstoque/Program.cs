@@ -1,6 +1,7 @@
 using GestaoEstoque.Data;
 using GestaoEstoque.Services;
 using Microsoft.EntityFrameworkCore;
+using GestaoEstoque.Exceptions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,6 +28,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseMiddleware<GlobalExceptionHandlerMiddleware>();
+app.UseAuthorization();
+app.MapControllers();
 
 var summaries = new[]
 {
