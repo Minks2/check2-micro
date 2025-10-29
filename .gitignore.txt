@@ -1,0 +1,10 @@
+# Pasta de cache do Visual Studio
+.vs/
+
+# Pastas de Build (compilação)
+[Bb]in/
+[Oo]bj/
+
+# Configurações de usuário específicas
+*.user
+*.suo
